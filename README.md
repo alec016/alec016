@@ -1,4 +1,6 @@
-## Hi there 👋
+<img align="left" src="https://github-readme-stats.vercel.app/api?username=alec016&theme=radical&show_icons=true" />
+
+<img align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=alec016&theme=radical&layout=compact" alt="300f20t" />
 
 <!--
 **alec016/alec016** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
